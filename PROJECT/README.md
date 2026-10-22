@@ -81,9 +81,16 @@ Performs addition, subtraction, multiplication, and division on two numbers.
 - Mathematical formulas
 - Output using `console.log()`
 
+
 ## 👨‍💻 Author
 
 Created as a beginner-level JavaScript Basic Calculation Assignment.
+
+## Project Video
+
+https://github.com/user-attachments/assets/f157badc-e2c8-40c6-8bb7-00cf7b68efe0
+
+https://github.com/user-attachments/assets/c1582384-a072-4afe-b462-f400c3ac542f
 
 ## 📄 License
 
