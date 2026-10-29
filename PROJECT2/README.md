@@ -66,7 +66,11 @@ Watch the demo video to understand how the JavaScript iteration statements and l
 
 [▶️ Click here to watch the project demo video](PR2.mp4)
 
-C:\JAYMIT\JavaScript\PROJECT2\PR2.mp4
+
+
+Uploading PR2.mp4…
+
+
 
 
 ## ▶️ How to Run the Project
