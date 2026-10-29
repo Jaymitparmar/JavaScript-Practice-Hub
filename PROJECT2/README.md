@@ -68,9 +68,6 @@ Watch the demo video to understand how the JavaScript iteration statements and l
 
 
 
-Uploading PR2.mp4…
-
-
 
 
 ## ▶️ How to Run the Project
